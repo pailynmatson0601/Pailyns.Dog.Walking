@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pailyn's Dog Walking</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <h1>Pailyn's Dog Walking 🐾</h1>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="prices.html">Prices</a>
+  <a href="photos.html">Photos</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<h2>Reliable & Loving Dog Care</h2>
+<p>Keeping your pets happy 🐶</p>
+
+<h3>Saving for a Sphynx Cat 🐱</h3>
+
+</body>
+</html>
